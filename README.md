@@ -3,7 +3,10 @@ CogniText is a LLM powered PDF reader that allow user to chat and get summary in
 
 ## Demo
 Below is the demo of CogniText
-![CogniText Demo](images/congnitext.mp4)
+
+<video width="320" height="240" controls>
+<source src="images/congnitext.mp4" type="video/mp4">
+</video>
 
 ## Instructions
 
