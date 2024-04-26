@@ -2,11 +2,7 @@
 CogniText is a LLM powered PDF reader that allow user to chat and get summary information about your pdf files. This app is powerd by [Octo](https://octo.ai/)
 
 ## Demo
-Below is the demo of CogniText
-
-<video width="800" height="240" controls>
-<source src="images/congnitext.mp4" type="video/mp4">
-</video>
+Below is the demo of CogniText on [Youtube](https://youtu.be/dxC4OOwnVEQ)
 
 ## Instructions
 
