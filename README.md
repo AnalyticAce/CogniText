@@ -55,9 +55,9 @@ Voilà you can now interact with the pdf files uploader in the **files** folder.
 
 ## Contribution Guidelines
 
-We welcome contributions to Open Kitchen! If you'd like to contribute, please follow these guidelines:
+We welcome contributions to CogniText! If you'd like to contribute, please follow these guidelines:
 
-1. **Fork the Repository**: Start by forking the OpenCuisine repository on GitHub.
+1. **Fork the Repository**: Start by forking the CogniText repository on GitHub.
 
 2. **Clone the Forked Repository**: Clone your forked repository to your local machine using `git clone`.
 
