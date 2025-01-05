@@ -44,11 +44,9 @@ To run the project, follow these steps:
 3. Navigate to the project directory using the `cd` command.
 
 4. Execute the following command to start the project:
-
 ```bash
 node index.js
 ```
-
 Voilà you can now interact with the pdf files uploader in the **files** folder.
 
 `NB: Copy to the files directory all the pdf files you will like to interact with. :)`
